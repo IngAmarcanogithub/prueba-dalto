@@ -1,5 +1,5 @@
 # prueba-dalto
 primer repositorio del curso dalto
 
-## dewcipción
+## descripción
 Este es un repo del curso de dalto
